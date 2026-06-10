@@ -42,6 +42,6 @@ Everything — AI models, speech recognition, your documents and notes — is pr
 
 ## License
 
-© Valentin Maier. All rights reserved.
+© accola88. All rights reserved.
 
 **Free to use** for personal purposes. Redistribution or modification requires permission. This application bundles open-source components — see `THIRD-PARTY-NOTICES.txt` included with the installation.
